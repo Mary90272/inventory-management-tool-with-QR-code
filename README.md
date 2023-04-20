@@ -1,0 +1,1 @@
+# inventory-management-tool-with-QR-code
