@@ -31,4 +31,5 @@ The administrator has complete control over and manages the inventory. in the ta
 ![alt text](assets/mainpage.png)
 ![alt text](assets/itemspage.png)
 ![alt text](assets/employeespage.png)
-## Relevant Links
+## Relevant Links<br>
+Github: https://github.com/Mary90272/inventory-management-tool-with-QR-code
