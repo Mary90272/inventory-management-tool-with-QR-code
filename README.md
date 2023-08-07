@@ -26,5 +26,6 @@ The administrator has complete control over and manages the inventory. in the ta
  npm i -g nodemon
 
  ## Images of Deployed Application
-
+# Main page images
+![alt text](assets/main.png)
 ## Relevant Links
